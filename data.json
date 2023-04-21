@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Frodo Baggins",
+        "age": 50,
+        "race": "Hobbit",
+        "height": 1.22
+    },
+    {
+        "name": "Gandalf",
+        "age": 2019,
+        "race": "Maiar",
+        "height": 1.93
+    },
+    {
+        "name": "Legolas",
+        "age": 2931,
+        "race": "Elf",
+        "height": 1.85
+    },
+    {
+        "name": "Aragorn",
+        "age": 87,
+        "race": "Man",
+        "height": 1.88
+    },
+    {
+        "name": "Gimli",
+        "age": 139,
+        "race": "Dwarf",
+        "height": 1.37
+    }
+]
